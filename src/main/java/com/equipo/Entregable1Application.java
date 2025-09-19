@@ -1,4 +1,4 @@
-package com.equipo.biblioteca;
+package src.main.java.com.equipo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
